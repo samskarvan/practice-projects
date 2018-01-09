@@ -6,3 +6,8 @@
     - Reset the timer to 00:00
 
 Bonus: Make the `:` blink for each second that has passed
+
+
+
+
+
